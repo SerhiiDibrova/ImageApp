@@ -2,7 +2,7 @@
 1) run project ImageappAplication
 2) localhost:8081
 
-####REST API:
+### REST API:
 
 GET /api/v1/images  get all images<br>
 GET /api/v2/images?name=&searchTerm&path= get all images by filter<br>
